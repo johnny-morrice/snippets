@@ -1,5 +1,5 @@
 # I can't remember where I saw this trick, but it's neat
-# It looks more like markup than merely using a 
+# It looks more like markup than merely using a closure
 
 # Usage begins on line 59
 
