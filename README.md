@@ -2,7 +2,7 @@
 
 Cool little code samples.
 
-Like a pist.
+Like a gist.
 
 Like pastebin.
 
