@@ -22,10 +22,10 @@ class HrBuilder
     # Serialize to lamest markup language ever
     def to_sarcasm_ml()
         <<TEMPLATE
-APPLICANT_NAME: #{@contact.person}
-PHONE_NUMBER: #{@contact.telephone}
-SCHOOL_NAME: #{@school.institution}
-GRAD_YEAR: #{@school.date}
+APPLICANT_NAME! #{@contact.person}
+PHONE_NUMBER! #{@contact.telephone}
+SCHOOL_NAME! #{@school.institution}
+GRAD_YEAR! #{@school.date}
 TEMPLATE
     end
 
