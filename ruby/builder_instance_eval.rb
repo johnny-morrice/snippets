@@ -1,5 +1,7 @@
 # I can't remember where I saw this trick, but it's neat
-# It looks more like markup than merely using a closure
+# It looks more like markup than merely using a 
+
+# Usage begins on line 59
 
 # Here's a builder for heirarchical data
 class HrBuilder
@@ -53,6 +55,8 @@ class ContactDetails
         @telephone = phone_number
     end
 end
+
+# Usage
 
 builder = HrBuilder.new
 
